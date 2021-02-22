@@ -1,4 +1,4 @@
-package domain.model;
+package com.ktpt.commerssg.common.domain.model;
 
 public class CommerceItem {
     private final String title;
