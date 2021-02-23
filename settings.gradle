@@ -1,6 +1,6 @@
 rootProject.name = 'Commerssg-server'
 
-include ':common'
-include ':jpa'
-include ':api'
-include ':batch'
+include ':module-common'
+include ':module-data-jpa'
+include ':module-api'
+include ':module-batch'
